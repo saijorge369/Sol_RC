@@ -2,7 +2,7 @@
 
 Herramienta interactiva para analizar la descarga de un capacitor en un circuito RC.
 
-Autor: Prof. Wong
+Autor: Prof. Wong. Om Sai Ram.
 
 Incluye:
 
@@ -12,7 +12,7 @@ Incluye:
 - pendiente y constante de tiempo por dos puntos y por ajuste lineal;
 - criterio de calificacion para una hoja semilogaritmica base 10 en el eje `y`.
 - selector de presentacion: claro, oscuro, noche, Da Vinci y pizarra.
-- referencias academicas reales para justificar el modelo fisico y matematico.
+- referencias academicas enfocadas en graficacion semilog, linealizacion, cambio de base e incertidumbre de la pendiente.
 
 Para usarla, abre `index.html` en un navegador moderno.
 
@@ -47,3 +47,10 @@ tau = -1 / m
 - OpenStax University Physics Volume 2: 10.5 RC Circuits.
 - Khan Academy Electrical Engineering: RC natural response.
 - Physics LibreTexts / OpenStax College Physics: DC circuits containing resistors and capacitors.
+- Georgia Tech Physics 2212 Lab 8: Capacitance and RC Circuits.
+- Georgia State / Perimeter College PHYS 2212L Lab 05: RC Circuits.
+- St. Lawrence University Phys 104: RC Circuits.
+- UMass Amherst Open Books Physics 132: RC Circuits.
+- NIST/SEMATECH e-Handbook: Least Squares.
+- Rose-Hulman Physics Lab Manual: The Slope of a Graph.
+- University of Waterloo Open Science: Graphing and Uncertainty.
